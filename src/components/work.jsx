@@ -13,9 +13,6 @@ export default class Work extends Component {
                 </div>
               </div>
               <div className="row row-bottom-padded-sm animate-box" data-animate-effect="fadeInLeft">
-                <div className="col-md-12">
-                  <p className="work-menu"><span><a href="#" className="active">Web Apps</a></span> <span><a href="#" className="active">Mobile Apps</a></span> </p>
-                </div>
               </div>
               <div className="row">
                 <div className="col-md-6 animate-box" data-animate-effect="fadeInLeft">
