@@ -10,7 +10,7 @@ export default class Navigation extends Component {
               <div className="text-center">
                 <div className="author-img" style={{backgroundImage: 'url(images/about.jpg)'}} />
                 <h1 id="colorlib-logo"><a href="index.html">Jonathan Santos</a></h1>
-                <span className="position"><a href="#">Student</a> at the University of Calgary</span>
+                <span className="position">Student at the University of Calgary</span>
               </div>
               <nav id="colorlib-main-menu" role="navigation" className="navbar">
                 <div id="navbar" className="collapse">
